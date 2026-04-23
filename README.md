@@ -10,13 +10,21 @@ It has a simpler mode designed for work...
 Features
 
 Freeform board - columns can be placed anywhere on the screen, not locked to a grid
+
 Two independent drag systems - HTML5 Drag & Drop API for task cards, Pointer API for columns; separated to avoid event conflicts
+
 Persistent state - everything is saved to localStorage: column positions, z-index order, tasks, label colors, and UI preferences
+
 Edit Mode — columns are locked by default to prevent accidental movement; drag handles appear only when edit mode is active
+
 Ambient background - animated floating shapes (circles, lines, spirals) with a toggle to hide them for a cleaner workspace
+
 Collapsible header - the title bar collapses into a small floating dot to free up screen space
+
 Inline column renaming - click the column title to rename it directly, no modal required
+
 Task creation modal - add a title, optional description, and one of five color labels
+
 Deletion confirmation - custom styled dialog instead of the native confirm(), warns if the column contains tasks
 z-index management - grabbed columns automatically rise to the top layer
 
