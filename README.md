@@ -31,7 +31,7 @@ z-index management - grabbed columns automatically rise to the top layer
 
 ## Stack
 
-Vanilla HTML, CSS, JavaScript — zero dependencies
+Vanilla HTML, CSS, JavaScript - zero dependencies
 
 No frameworks, no npm, no build tools
 
