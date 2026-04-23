@@ -71,4 +71,4 @@ Font: Varela Round via Google Fonts
 
 Один файл (~1300 строк)
 
-Шрифт: Varela Round через Google Fonts
+Шрифт Varela Round через Google Fonts
