@@ -72,3 +72,7 @@ Font: Varela Round via Google Fonts
 Один файл (~1300 строк)
 
 Шрифт Varela Round через Google Fonts
+
+# Notes
+_Проект делал скорее для себя, но что-то вдохновился залить его на гитхаб. Не рассчитываю на особые охваты, но, что есть то есть..._
+_I made this project mostly for myself, but I got inspired to upload it to GitHub. I’m not expecting it to reach a wide audience, but it is what it is..._
