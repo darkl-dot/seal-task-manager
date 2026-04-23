@@ -10,7 +10,7 @@ i love seals
 ## [changelog-en](./changelogen.md)
 ## [changelog-ru](./changelogru.md)
 
-# ENGLISH README
+# 🇬🇧 English
 # 🦭 Seal Task Manager
 ## Features
 
@@ -44,7 +44,7 @@ Single file (~1300 lines)
 
 Font: Varela Round via Google Fonts
 
-# RUSSIAN README
+# 🇷🇺 Русский
 # 🦭 Seal Task Manager
 
 Свободная доска - колонки размещаются в любой точке экрана, не привязаны к сетке
