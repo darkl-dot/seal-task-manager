@@ -1,4 +1,4 @@
-# Seal-Task-Manager
+# Seal Task Manager - STM
 # A simple task manager with a focus on design.
 <img width="1721" height="1018" alt="изображение" src="https://github.com/user-attachments/assets/7cf70e30-ec3c-4e6e-a9cd-e6a0058108d4" />
 
