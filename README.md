@@ -29,7 +29,7 @@ Deletion confirmation - custom styled dialog instead of the native confirm(), wa
 z-index management - grabbed columns automatically rise to the top layer
 
 
-Stack
+## Stack
 
 Vanilla HTML, CSS, JavaScript — zero dependencies
 
@@ -39,8 +39,8 @@ Single file (~1300 lines)
 
 Font: Varela Round via Google Fonts
 
---RUSSIAN--
-🦭 Seal Task Manager
+# --RUSSIAN--
+# 🦭 Seal Task Manager
 
 Свободная доска - колонки размещаются в любой точке экрана, не привязаны к сетке
 
