@@ -63,7 +63,7 @@ Font: Varela Round via Google Fonts
 Управление z-index - захваченная колонка автоматически выходит на передний план
 
 
-# Стек
+## Стек
 
 Ванильный HTML, CSS, JavaScript — ноль зависимостей
 
