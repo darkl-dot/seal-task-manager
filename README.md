@@ -15,7 +15,7 @@ Two independent drag systems - HTML5 Drag & Drop API for task cards, Pointer API
 
 Persistent state - everything is saved to localStorage: column positions, z-index order, tasks, label colors, and UI preferences
 
-Edit Mode — columns are locked by default to prevent accidental movement; drag handles appear only when edit mode is active
+Edit Mode - columns are locked by default to prevent accidental movement; drag handles appear only when edit mode is active
 
 Ambient background - animated floating shapes (circles, lines, spirals) with a toggle to hide them for a cleaner workspace
 
