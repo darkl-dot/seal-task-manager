@@ -6,8 +6,9 @@ i love seals
 # It has a simpler mode designed for work...
 <img width="1729" height="1016" alt="изображение" src="https://github.com/user-attachments/assets/8e3fce5f-55b3-4bc7-87c1-734e0367b342" />
 
-## [changelog-en](./changelogen.md)
-## [changelog-ru](./changelogru.md)
+## Changelogs
+# [changelog-en](./changelogen.md)
+# [changelog-ru](./changelogru.md)
 
 # ENGLISH README
 # 🦭 Seal Task Manager
