@@ -7,7 +7,7 @@ It has a simpler mode designed for work...
 
 
 # 🦭 Seal Task Manager
-Features
+## Features
 
 Freeform board - columns can be placed anywhere on the screen, not locked to a grid
 
