@@ -39,7 +39,7 @@ Single file (~1300 lines)
 
 Font: Varela Round via Google Fonts
 
-# --RUSSIAN--
+# RUSSIAN README
 # 🦭 Seal Task Manager
 
 Свободная доска - колонки размещаются в любой точке экрана, не привязаны к сетке
